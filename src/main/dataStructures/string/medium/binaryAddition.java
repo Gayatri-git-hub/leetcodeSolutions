@@ -1,4 +1,4 @@
-package dataStructures.string.easy;
+package dataStructures.string.medium;
 
 public class binaryAddition {
     public static void main(String[] args) {
