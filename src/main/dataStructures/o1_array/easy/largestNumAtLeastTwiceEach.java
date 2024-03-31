@@ -1,7 +1,6 @@
-package dataStructures.array.easy;
+package dataStructures.o1_array.easy;
 
 import java.util.Arrays;
-import java.util.OptionalInt;
 
 public class largestNumAtLeastTwiceEach {
     public static void main(String[] args) {

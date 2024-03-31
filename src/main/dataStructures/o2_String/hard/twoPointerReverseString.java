@@ -1,6 +1,4 @@
-package dataStructures.string.hard;
-
-import java.util.Arrays;
+package dataStructures.o2_String.hard;
 
 public class twoPointerReverseString {
     public static void main(String[] args) {

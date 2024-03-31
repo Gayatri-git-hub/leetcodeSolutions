@@ -1,4 +1,4 @@
-package dataStructures.string.easy;
+package dataStructures.o2_String.easy;
 
 
 /*

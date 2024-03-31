@@ -1,4 +1,4 @@
-package dataStructures.array.hard;
+package dataStructures.o1_array.hard;
 
 import java.util.Arrays;
 

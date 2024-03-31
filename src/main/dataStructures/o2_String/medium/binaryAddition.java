@@ -1,4 +1,4 @@
-package dataStructures.string.medium;
+package dataStructures.o2_String.medium;
 
 public class binaryAddition {
     public static void main(String[] args) {

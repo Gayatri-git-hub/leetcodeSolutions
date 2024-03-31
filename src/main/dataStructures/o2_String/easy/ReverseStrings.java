@@ -1,6 +1,4 @@
-package dataStructures.string.easy;
-
-import java.util.Arrays;
+package dataStructures.o2_String.easy;
 
 public class ReverseStrings {
     public static void main(String[] args) {

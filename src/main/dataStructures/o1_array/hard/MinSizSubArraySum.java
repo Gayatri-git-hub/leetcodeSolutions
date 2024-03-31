@@ -1,8 +1,6 @@
-package dataStructures.array.hard;
+package dataStructures.o1_array.hard;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class MinSizSubArraySum {
     public static void main(String[] args) {

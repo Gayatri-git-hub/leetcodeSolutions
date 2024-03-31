@@ -1,4 +1,4 @@
-package dataStructures.array.easy;
+package dataStructures.o1_array.easy;
 
 
 

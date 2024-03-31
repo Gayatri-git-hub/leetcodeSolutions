@@ -1,4 +1,4 @@
-package dataStructures.array.medium;
+package dataStructures.o1_array.medium;
 
 import java.util.Arrays;
 

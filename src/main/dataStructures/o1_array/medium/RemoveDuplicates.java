@@ -1,6 +1,4 @@
-package dataStructures.array.medium;
-
-import dataStructures.string.easy.needleInHaystack;
+package dataStructures.o1_array.medium;
 
 import java.util.Arrays;
 /*
